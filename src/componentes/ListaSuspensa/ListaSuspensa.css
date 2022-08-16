@@ -1,0 +1,17 @@
+
+
+.ListaSuspensa label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 24px;
+}
+
+.ListaSuspensa select{
+    background-color: #fff;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.06);
+    width: 100%;
+    border: none;
+    font-size: 1.5em;
+    padding: 14px;
+    box-sizing: border-box;
+}
